@@ -49,8 +49,8 @@ This is a Streamlit app that utilizes the power of the `StableDiffusionPipeline`
 
 - Feel free to explore different text prompts and observe the variations in the generated images.
 
-- The app creates the "images" folder automatically if it doesn't exist, ensuring that the generated images are saved in an organized manner.
-
 - If you encounter any problems or have suggestions for improvements, don't hesitate to report them in the project's repository.
+
+- This app is also deployed on streamlit community cloud.
 
 Enjoy experimenting with the Stable Diffusion Text-to-Image App and generating intriguing images from text prompts! 🌟
