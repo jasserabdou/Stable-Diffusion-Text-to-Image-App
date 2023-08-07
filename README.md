@@ -12,7 +12,7 @@ This is a Streamlit app that utilizes the power of the `StableDiffusionPipeline`
 
 2. Install the required libraries by running:
    ```
-   pip install -r packages.txt
+   pip install -r requirements.txt
    ```
 
 ## Usage
