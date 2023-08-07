@@ -1,7 +1,5 @@
 # Stable Diffusion Text-to-Image App 🚀
 
-![Stable Diffusion Text-to-Image App](app_screenshot.png)
-
 This is a Streamlit app that harnesses the power of the `StableDiffusionPipeline` from the `diffusers` library to generate stunning images from text prompts. The app efficiently utilizes the `Accelerator` class from the `accelerate` library to run the model on the available device, whether it's a CPU or a GPU.
 
 ## Installation
