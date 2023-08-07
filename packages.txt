@@ -1,7 +1,1 @@
-accelerate
-diffusers
-transformers
-torch 
-torchvision 
-torchaudio
-
+pip install accelerate diffusers transformers torch torchvision torchaudio
