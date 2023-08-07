@@ -51,6 +51,6 @@ This is a Streamlit app that utilizes the power of the `StableDiffusionPipeline`
 
 - If you encounter any problems or have suggestions for improvements, don't hesitate to report them in the project's repository.
 
-- This app is also deployed on streamlit community cloud.
+- This app is also deployed on streamlit community cloud at this server "https://stable-diffusion-text-to-image-app-jvgsrm44wawbgtmeszknzn.streamlit.app/" .
 
 Enjoy experimenting with the Stable Diffusion Text-to-Image App and generating intriguing images from text prompts! 🌟
