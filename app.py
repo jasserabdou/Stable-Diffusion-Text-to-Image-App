@@ -7,7 +7,7 @@ MODEL_ID = "CompVis/stable-diffusion-v1-4"
 ACCELERATOR = Accelerator()
 
 
-@st.cache_resource
+
 def load_model():
     with ACCELERATOR.device:
         pipe = StableDiffusionPipeline.from_pretrained(
