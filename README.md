@@ -51,7 +51,7 @@ This is a Streamlit app that harnesses the power of the `StableDiffusionPipeline
 
 - If you encounter any problems or have suggestions for improvements, don't hesitate to report them in the project's repository.
 
-- This app is also deployed on the Streamlit community cloud, and you can access it at this server: [Stable Diffusion Text-to-Image App](https://stable-diffusion-text-to-image-app-jvgsrm44wawbgtmeszknzn.streamlit.app/).
+- This app is also deployed on the Streamlit community cloud, and you can access it at this server: https://stable-diffusion-text-to-image-app-tqxr4b9r9y7yidb4838qss.streamlit.app/.
 
 ## Test Prompts
 1. "A peaceful river flows through a lush forest, reflecting the vibrant colors of nature."
