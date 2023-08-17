@@ -1,3 +1,4 @@
+import streamlit as st
 import torch
 from accelerate import Accelerator
 from diffusers import StableDiffusionPipeline
